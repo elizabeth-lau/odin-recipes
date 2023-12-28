@@ -1,2 +1,3 @@
 # odin-recipes
 Odin Project - Recipes
+This is my first project for the Odin Project. This project is all about showcasing what I have learned from HTML. 
